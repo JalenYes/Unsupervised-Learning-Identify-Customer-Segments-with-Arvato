@@ -23,6 +23,7 @@ You will also need to have software installed to run and execute an [iPython Not
 
 Jupyter Notebook divided into sections for completing the project. The notebook provides more details than the outline given here.
 
+
 ### Data
 There are four files associated with the data of this project:
 - `Udacity_AZDIAS_Subset.csv`: Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
