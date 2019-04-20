@@ -5,6 +5,7 @@ In this project, I worked with real-life data provided by Bertelsmann partners A
 I used unsupervised learning techniques to organize the general population into clusters, then used those clusters to see which of them comprise the main user base for the company. Prior to applying the machine learning methods, I also assessed and cleaned the data in order to convert the data into a usable form.
 
 
+
 # Installation
 
 This project requires **Python 3.x** and the following Python libraries installed:
