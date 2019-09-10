@@ -1,4 +1,4 @@
-# Identify customer segments with Arvato
+# Identify Customer Segments with Arvato
 
 In this project, I worked with real-life data provided by Bertelsmann partners AZ Direct and Arvato Finance Solution. The data here concerns a company that performs mail-order sales in Germany. Their main question of interest is to identify facets of the population that are most likely to be purchasers of their products for a mailout campaign. 
 
